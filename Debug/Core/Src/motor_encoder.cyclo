@@ -1,0 +1,2 @@
+../Core/Src/motor_encoder.c:10:6:get_encoder_speed	7
+../Core/Src/motor_encoder.c:86:6:reset_encoder	1

@@ -1,0 +1,5 @@
+../Core/Src/motor_control.c:19:6:enable_motor	1
+../Core/Src/motor_control.c:32:6:disable_motor	1
+../Core/Src/motor_control.c:46:6:set_speed_open	10
+../Core/Src/motor_control.c:84:6:set_speed_zero	4
+../Core/Src/motor_control.c:90:6:motor_init	1
